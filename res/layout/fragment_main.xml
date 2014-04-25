@@ -25,6 +25,7 @@
         android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="@string/main_button" />
+        android:text="@string/main_button"
+        android:onClick="sendMessage" />
 
 </RelativeLayout>

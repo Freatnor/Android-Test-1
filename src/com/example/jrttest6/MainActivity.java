@@ -3,12 +3,14 @@ package com.example.jrttest6;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.os.Build;
 
 public class MainActivity extends ActionBarActivity {
@@ -22,6 +24,15 @@ public class MainActivity extends ActionBarActivity {
 			getSupportFragmentManager().beginTransaction()
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
+		
+		final Button button = (Button) findViewById(R.id.button1);
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(null, SecondActivity.class);
+                
+                
+            }
+        });
 	}
 
 	@Override
@@ -60,9 +71,8 @@ public class MainActivity extends ActionBarActivity {
 			return rootView;
 		}
 	}
+
 	
-	/*public static class startActivityForResult (){
-	}
-	}*/
+	
 
 }
