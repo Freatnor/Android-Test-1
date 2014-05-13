@@ -8,7 +8,7 @@
     <string name="first_view">Hello World!&#8230;  I will change!! 変化するはずだぜ！</string>
     <string name="main_button">I Don\'t Know!!</string>
     <string name="second_view">You can set the main page text with the button above</string>
-    <string name="second_hint">Write anything!</string>
+    <string name="second_hint">Write anything! (Literally Anything... Go Nuts)</string>
     <string name="second_button">Set Text!</string>
 
 </resources>
