@@ -35,7 +35,7 @@ public class SecondActivity extends ActionBarActivity {
            public void run() {
             	changeEditText();
             }
-        }, 1000);
+        }, 3000);
 		
 	}
 	
