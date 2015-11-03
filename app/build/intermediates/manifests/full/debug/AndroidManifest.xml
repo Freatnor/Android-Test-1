@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.jrttest6.MainActivity"
+            android:name="com.jrt.gamestatsfordota2.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.jrttest6.SecondActivity"
+            android:name="com.jrt.gamestatsfordota2.SecondActivity"
             android:label="@string/title_activity_second" >
         </activity>
     </application>

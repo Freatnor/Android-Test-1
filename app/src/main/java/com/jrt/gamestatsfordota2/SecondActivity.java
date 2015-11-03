@@ -1,4 +1,4 @@
-package com.example.jrttest6;
+package com.jrt.gamestatsfordota2;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;

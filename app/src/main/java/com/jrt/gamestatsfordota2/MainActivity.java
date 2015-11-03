@@ -1,4 +1,4 @@
-package com.example.jrttest6;
+package com.jrt.gamestatsfordota2;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
@@ -14,6 +14,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 import android.os.Build;
+
 
 public class MainActivity extends ActionBarActivity {
 

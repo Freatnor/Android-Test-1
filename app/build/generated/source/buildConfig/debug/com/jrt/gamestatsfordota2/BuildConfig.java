@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.example.jrttest6;
+package com.jrt.gamestatsfordota2;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

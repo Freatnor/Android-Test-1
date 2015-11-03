@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.jrttest6;
+package com.jrt.gamestatsfordota2;
 
 public final class R {
     public static final class anim {

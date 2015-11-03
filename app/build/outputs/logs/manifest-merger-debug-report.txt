@@ -2,7 +2,7 @@
 manifest
 ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:3:5-35
+		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -35,12 +35,12 @@ MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Freatnor\Document
 		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:13:9-45
 	android:theme
 		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:15:9-40
-activity#com.example.jrttest6.MainActivity
+activity#com.jrt.gamestatsfordota2.MainActivity
 ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:label
 		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:17:13-61
+		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:17:13-66
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
@@ -51,9 +51,9 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
 		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:22:27-74
-activity#com.example.jrttest6.SecondActivity
+activity#com.jrt.gamestatsfordota2.SecondActivity
 ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:25:9-28:20
 	android:label
 		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:27:13-58
 	android:name
-		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:26:13-63
+		ADDED from C:\Users\Freatnor\Documents\Android-Test-1\app\src\main\AndroidManifest.xml:26:13-68
