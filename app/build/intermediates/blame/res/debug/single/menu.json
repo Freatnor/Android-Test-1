@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/administrator/Desktop/Projects/Android-Test-1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/res/merged/debug/menu/second.xml",
+        "source": "/Users/administrator/Desktop/Projects/Android-Test-1/app/src/main/res/menu/second.xml"
+    }
+]

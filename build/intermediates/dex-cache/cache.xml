@@ -2,18 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Freatnor\Documents\Android-Test-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
-        jumboMode="false"
+        jar="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="C:\Users\Freatnor\Documents\Android-Test-1\app\build\intermediates\pre-dexed\debug\classes-eeb29ffe85aecd413d8d69d5e9f6d254fd9ddce7.jar" />
+        <dex dex="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_95b46a7c095a412b6d7a4d35224ea5138ab86d58/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Freatnor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        jar="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="43c9e4ccf4cd7bd07c29c1bec855f6acf11e83f8">
+        <dex dex="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a3fbcf8e98ed883eb383cba47f6a1e2de5bd85fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="02f8f2fc14138805d4de79d67e0af05ca016baa8">
+        <dex dex="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6607897ff608ec685f9fa8bb4ef5f930b41d2d30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/administrator/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\Freatnor\Documents\Android-Test-1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8736ce65ca62cf54169329b899f113c8cb3d7234.jar" />
+        <dex dex="/Users/administrator/Desktop/Projects/Android-Test-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_1b30bab1fa44cc916ef13fdf60de9c7fe5f30a56/classes.dex" />
     </item>
 
 </items>

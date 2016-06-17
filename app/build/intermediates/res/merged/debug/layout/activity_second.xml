@@ -40,4 +40,4 @@
         android:text="@string/second_view"
         android:textSize="18dp" />
 
-</RelativeLayout><!-- From: file:/C:/Users/Freatnor/Documents/Android-Test-1/app/src/main/res/layout/activity_second.xml -->
+</RelativeLayout>
